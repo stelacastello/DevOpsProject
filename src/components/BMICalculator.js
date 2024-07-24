@@ -33,7 +33,7 @@ const BMICalculator = () => {
 
   return (
     <div className="container">
-      <h1 className="mt-5">BMI Calculator</h1>
+      <h1 className="mt-5">Joaos BMI Calculator</h1>
       <form onSubmit={handleSubmit} className="mt-4">
         <div className="form-group">
           <label htmlFor="weight">Weight (kg)</label>
